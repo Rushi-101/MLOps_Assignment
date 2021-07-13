@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "myremote"']
+    url = D:/external_cache
+['remote "storage"']
+    url = s3://mlopsassgn1/datastore
